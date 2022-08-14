@@ -5,6 +5,8 @@ An experimental interactive collaborative platform of geospatial content includi
 
 __https://app.tunay.io__
 
+> __Note__ This platform is optimized for Google Chrome
+
 ### features
 
 - Plan your flight routes with realtime nowcast and forecast global aviation weather along the route.
@@ -13,8 +15,6 @@ __https://app.tunay.io__
 - This platform is using the latest mapbox-gl-js by @mapbox
 
 > __Warning__ Please be informed that the flight planning with this application is for rough orientation only and may not be used for real flights. Use at your own risk. Please confirm all weather datas at the original source. These are for internal information only and may be wrong, out of date, or incomplete. app.tunay.io assumes no liability for the correctness, accuracy, relevance, reliability or completeness of the information published.
-
-> __Note__ This platform is optimized for Google Chrome
 
 <img width="1474" alt="Screenshot 2022-08-14 at 12 06 00" src="https://user-images.githubusercontent.com/111220915/184532076-f6bba7da-d00d-445a-9feb-8a6c13851a96.png">
 <img width="1474" alt="Screenshot 2022-08-14 at 11 31 53" src="https://user-images.githubusercontent.com/111220915/184531567-6b7a1683-3217-46e8-8047-0128e2d9b696.png">
