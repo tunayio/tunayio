@@ -1,6 +1,6 @@
 Hej, I’m Gerd Tunay Schuster, Software Engineer and Aviator
 
-# An experimental interactive collaborative platform of geospatial content - flight planning & aviation weather app
+# An experimental interactive collaborative platform of geospatial content - aviation weather & flight planning app
 An experimental interactive collaborative platform of geospatial content including flight planning with realtime nowcast and forecast weather along the route and global/local aviation weather on fast, stable and highly available @mapbox map on a clean UI. weather datas along the routes powered by openweathermap. METAR and TAF by NOAA. world magnetic model coefficient 2020-2025 by NOAA. weather datas like wind, precipitation, temp, pressure, cloud covering, humidity, etc. by NOAA and openweahtermap. weather visualization powered by gdal tools. terrain elevation datas by cgiar consortium spatial information. development and design ©2022 by gerd tunay schuster
 
 __https://app.tunay.io__
