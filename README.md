@@ -1,7 +1,7 @@
 Hej, I’m Gerd Tunay Schuster, Software Engineer and Aviator
 
 # An experimental interactive collaborative platform of geospatial content
-An experimental interactive collaborative platform of geospatial content including flight planning with realtime nowcast and forecast weather along the route and global/local aviation weather on fast, stable and highly available @mapbox map on a clean UI. weather datas along the routes powered by openweathermap. metar and taf by NOAA. world magnetic model coefficient 2020-2025 by NOAA. weather datas like wind, precipitation, temp, pressure, cloud covering, humidity, etc. by NOAA and openweahtermap. weather visualization powered by gdal tools. terrain elevation datas by cgiar consortium spatial information. development and design ©2022 by gerd tunay schuster
+An experimental interactive collaborative platform of geospatial content including flight planning with realtime nowcast and forecast weather along the route and global/local aviation weather on fast, stable and highly available @mapbox map on a clean UI. weather datas along the routes powered by openweathermap. METAR and TAF by NOAA. world magnetic model coefficient 2020-2025 by NOAA. weather datas like wind, precipitation, temp, pressure, cloud covering, humidity, etc. by NOAA and openweahtermap. weather visualization powered by gdal tools. terrain elevation datas by cgiar consortium spatial information. development and design ©2022 by gerd tunay schuster
 
 __https://app.tunay.io__
 
@@ -9,8 +9,8 @@ __https://app.tunay.io__
 
 ### features
 
-- Plan your flight routes with realtime nowcast and forecast global aviation weather along the route.
-- Various global meteorological layers like temperature, humidity, dew point, atmospheric pressure and density on MSL, wind and gusts, cloud covering, precipitation
+- Plan your flight routes with realtime nowcast and forecast (48 hours) global aviation weather along the flight route.
+- Various global meteorological layers like temperature, humidity, dew point, atmospheric pressure and density on MSL, wind and gusts, cloud covering and precipitation.
 - Practice in the platform specifically designed for learning the basics of instrument navigation. The RMI (Radio Magnetic Indicator) tool was designed to demonstrate the approximate indication that an RMI would display with varying positions of an aircraft in relation to certain navigational facilities.
 - This platform is using the latest mapbox-gl-js by @mapbox
 
