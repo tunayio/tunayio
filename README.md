@@ -9,7 +9,7 @@ __https://app.tunay.io__
 
 ### features
 
-- Plan your flight routes with realtime nowcast and forecast (48 hours) global aviation weather along the flight route.
+- Plan your flight routes with realtime nowcast and forecast (48 hours) global aviation weather along the route.
 - Various global meteorological layers like temperature, humidity, dew point, atmospheric pressure and density on MSL, wind and gusts, cloud covering and precipitation.
 - Practice in the platform specifically designed for learning the basics of instrument navigation. The RMI (Radio Magnetic Indicator) tool was designed to demonstrate the approximate indication that an RMI would display with varying positions of an aircraft in relation to certain navigational facilities.
 - This platform is using the latest mapbox-gl-js by @mapbox
