@@ -13,7 +13,6 @@ __https://app.tunay.io__
 - Various global meteorological layers like temperature, humidity, dew point, atmospheric pressure and density on MSL, wind and gusts, cloud covering and precipitation.
 - Practice in the platform specifically designed for learning the basics of instrument navigation. The RMI (Radio Magnetic Indicator) tool was designed to demonstrate the approximate indication that an RMI would display with varying positions of an aircraft in relation to certain navigational facilities.
 - app.tunay.io is a collaborative learning platform that allows pupils to make the learning experience engaging, collaborative, and interactive. a group of pupils joins together at app.tunay.io to improve there skills in radiotelephony and the safety in aviation. once logged into the app, the student can position their virtual aircraft on the map using a compass rose. everyone can see everyone. this method provides additional visual support for any verbal radio course.
-- This platform is using the latest version of mapbox-gl-js by @mapbox
 
 > __Warning__ Please be informed that the flight planning with this application is for rough orientation only and may not be used for real flights. Use at your own risk. Please confirm all weather datas at the original source. These are for internal information only and may be wrong, out of date, or incomplete. app.tunay.io assumes no liability for the correctness, accuracy, relevance, reliability or completeness of the information published.
 
