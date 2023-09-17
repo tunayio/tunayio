@@ -5,7 +5,7 @@ An experimental interactive collaborative platform of geospatial content includi
 
 __https://app.tunay.io__
 
-> __Note__ This platform is optimized for Google Chrome
+__https://tunay.io__
 
 ### features
 
@@ -16,14 +16,15 @@ __https://app.tunay.io__
 
 > __Warning__ Please be informed that the flight planning with this application is for rough orientation only and may not be used for real flights. Use at your own risk. Please confirm all weather datas at the original source. These are for internal information only and may be wrong, out of date, or incomplete. app.tunay.io assumes no liability for the correctness, accuracy, relevance, reliability or completeness of the information published.
 
-<img width="1474" alt="Screenshot 2022-08-14 at 12 06 00" src="https://user-images.githubusercontent.com/111220915/184532076-f6bba7da-d00d-445a-9feb-8a6c13851a96.png">
-<img width="1474" alt="Screenshot 2022-08-14 at 11 31 53" src="https://user-images.githubusercontent.com/111220915/184531567-6b7a1683-3217-46e8-8047-0128e2d9b696.png">
-<img width="1474" alt="Screenshot 2022-08-14 at 11 29 06" src="https://user-images.githubusercontent.com/111220915/184531690-f96a8218-363a-46a7-b82c-cd977d59cdfd.png">
-<img width="1474" alt="Screenshot 2022-08-14 at 11 25 15" src="https://user-images.githubusercontent.com/111220915/184531582-e34647da-0434-4fd0-a858-1dc448079610.png">
-<img width="1474" alt="Screenshot 2022-08-14 at 11 24 10" src="https://user-images.githubusercontent.com/111220915/184531593-799f69f1-0f4b-48b5-bb90-cf17ca2eb3a9.png">
-<img width="1474" alt="Screenshot 2022-08-14 at 12 19 45" src="https://user-images.githubusercontent.com/111220915/184532534-4123ded7-239b-4680-8d8e-fd65832691dd.png">
-<img width="1474" alt="Screenshot 2022-08-14 at 12 19 05" src="https://user-images.githubusercontent.com/111220915/184532544-dbe349b8-caee-4d73-995d-eb19b4de8516.png">
-<img width="1474" alt="Screenshot 2022-08-14 at 12 15 42" src="https://user-images.githubusercontent.com/111220915/184532549-6fccff11-7864-40f0-b556-530a8a547700.png">
+<img width="1062" alt="Screenshot 2023-09-17 at 11 44 48" src="https://github.com/tunayio/tunayio/assets/111220915/ceb0fdb4-b2e9-403c-9df6-17f22e1b937e">
+<img width="1237" alt="Screenshot 2023-09-17 at 11 47 41" src="https://github.com/tunayio/tunayio/assets/111220915/042dbab7-be02-4656-9ecf-112732883155">
+<img width="749" alt="Screenshot 2023-09-17 at 11 46 02" src="https://github.com/tunayio/tunayio/assets/111220915/f73962b1-50e1-4a53-bd3d-00353e7bd20d">
+<img width="961" alt="Screenshot 2023-09-17 at 11 48 44" src="https://github.com/tunayio/tunayio/assets/111220915/55659960-9498-4284-9be0-a0199d745e9a">
+<img width="1306" alt="Screenshot 2023-09-17 at 11 51 23" src="https://github.com/tunayio/tunayio/assets/111220915/b0bbc336-54b0-4c0c-b7c7-78e5e5bfc145">
+<img width="1304" alt="Screenshot 2023-09-17 at 11 52 58" src="https://github.com/tunayio/tunayio/assets/111220915/80d026c8-e1cd-477d-a7e6-f65e26eb7858">
+<img width="1302" alt="Screenshot 2023-09-17 at 11 55 13" src="https://github.com/tunayio/tunayio/assets/111220915/470822c3-a45e-41ef-8c70-ebef9e453914">
+
+The maps are based on mercator and orthographic (globe) map projection. Projection is referred to as EPSG:900913 or EPSG:3857 – ellipsoid WGS84. Mercator is a conformal cylindrical map projection that was originally created to display accurate compass bearings for sea/air travel. An additional feature of this projection is that all local shapes are accurate and correctly defined at infinitesimal scale. The geometric characterization of cylindrical projections just presented leads to an algebraic form that a cylindrical projection must have. Specifically, a cylindrical projection must have the form T (φ, θ) = (θ, h(φ)). Mercator: T (φ, θ) = (θ, ln(|sec(φ) + tan(φ)|)). It was presented by Gerardus Mercator in 1569. The orthographic projection (globe) is an azimuthal perspective projection, projecting the earths surface from an infinite distance to a plane. The globe is naturally parameterized in terms of two variables, latitude φ and longitude θ. Thus, we could think of a map projection as a function T : R2 to R2 or T(φ,θ) = (x(φ,θ),y(φ,θ))
 
 <!---
 tunayio/tunayio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
