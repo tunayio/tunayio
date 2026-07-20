@@ -20,10 +20,8 @@ __https://tunay.io__
 <img width="1237" alt="Screenshot 2023-09-17 at 11 47 41" src="https://github.com/tunayio/tunayio/assets/111220915/042dbab7-be02-4656-9ecf-112732883155">
 <img width="749" alt="Screenshot 2023-09-17 at 11 46 02" src="https://github.com/tunayio/tunayio/assets/111220915/f73962b1-50e1-4a53-bd3d-00353e7bd20d">
 <img width="961" alt="Screenshot 2023-09-17 at 11 48 44" src="https://github.com/tunayio/tunayio/assets/111220915/55659960-9498-4284-9be0-a0199d745e9a">
-<img width="1304" alt="Screenshot 2023-09-17 at 11 52 58" src="https://github.com/tunayio/tunayio/assets/111220915/80d026c8-e1cd-477d-a7e6-f65e26eb7858">
 <img width="1302" alt="Screenshot 2023-09-17 at 11 55 13" src="https://github.com/tunayio/tunayio/assets/111220915/470822c3-a45e-41ef-8c70-ebef9e453914">
-
-
+<img width="1170" height="634" alt="Screenshot 2026-06-07 at 16 00 17" src="https://github.com/user-attachments/assets/2fdce9d2-097f-456d-af0e-d521dd9096f4" />
 
 The maps are based on mercator and orthographic (globe) map projection. Projection is referred to as EPSG:900913 or EPSG:3857 – ellipsoid WGS84. Mercator is a conformal cylindrical map projection that was originally created to display accurate compass bearings for sea/air travel. An additional feature of this projection is that all local shapes are accurate and correctly defined at infinitesimal scale. The geometric characterization of cylindrical projections just presented leads to an algebraic form that a cylindrical projection must have. Specifically, a cylindrical projection must have the form T (φ, θ) = (θ, h(φ)). Mercator: T (φ, θ) = (θ, ln(|sec(φ) + tan(φ)|)). It was presented by Gerardus Mercator in 1569. The orthographic projection (globe) is an azimuthal perspective projection, projecting the earths surface from an infinite distance to a plane. The globe is naturally parameterized in terms of two variables, latitude φ and longitude θ. Thus, we could think of a map projection as a function T : R2 to R2 or T(φ,θ) = (x(φ,θ),y(φ,θ))
 
