@@ -20,7 +20,7 @@ __https://tunay.io__
 <img width="1237" alt="Screenshot 2023-09-17 at 11 47 41" src="https://github.com/tunayio/tunayio/assets/111220915/042dbab7-be02-4656-9ecf-112732883155">
 <img width="749" alt="Screenshot 2023-09-17 at 11 46 02" src="https://github.com/tunayio/tunayio/assets/111220915/f73962b1-50e1-4a53-bd3d-00353e7bd20d">
 <img width="961" alt="Screenshot 2023-09-17 at 11 48 44" src="https://github.com/tunayio/tunayio/assets/111220915/55659960-9498-4284-9be0-a0199d745e9a">
-img width="1304" alt="Screenshot 2023-09-17 at 11 52 58" src="https://github.com/tunayio/tunayio/assets/111220915/80d026c8-e1cd-477d-a7e6-f65e26eb7858">
+<img width="1304" alt="Screenshot 2023-09-17 at 11 52 58" src="https://github.com/tunayio/tunayio/assets/111220915/80d026c8-e1cd-477d-a7e6-f65e26eb7858">
 <img width="1302" alt="Screenshot 2023-09-17 at 11 55 13" src="https://github.com/tunayio/tunayio/assets/111220915/470822c3-a45e-41ef-8c70-ebef9e453914">
 
 
