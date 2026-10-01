@@ -1,6 +1,7 @@
 Hej, I’m Gerd Tunay Schuster, Software Engineer and Aviator
 
-# An experimental interactive collaborative platform of geospatial content - collaborative learning, aviation weather & flight planning
+# VFR-Flugplanung & Streckenwetter für Privatpiloten
+### free visual VFR route weather for private pilots
 An experimental interactive collaborative platform of geospatial content including flight planning with realtime nowcast and forecast weather along the route and global/local aviation weather on fast, stable and highly available @mapbox map on a clean UI. weather datas along the routes powered by openweathermap. METAR and TAF by NOAA. world magnetic model coefficient 2025-2029 by NOAA. weather datas like wind, precipitation, temp, pressure, cloud covering, humidity, etc. by NOAA and openweahtermap. weather visualization powered by gdal tools. terrain elevation datas by cgiar consortium spatial information. development and design ©2026 by gerd tunay schuster
 
 __https://app.tunay.io__
@@ -16,6 +17,7 @@ __https://tunay.io__
 
 > __Warning__ Please be informed that the flight planning with this application is for rough orientation only and may not be used for real flights. Use at your own risk. Please confirm all weather datas at the original source. These are for internal information only and may be wrong, out of date, or incomplete. app.tunay.io assumes no liability for the correctness, accuracy, relevance, reliability or completeness of the information published.
 
+<img width="1566" height="952" alt="Screenshot 2026-10-01 at 14 18 20" src="https://github.com/user-attachments/assets/b66cc58e-35ab-43e7-bbf8-28f20211b380" />
 <img width="1062" alt="Screenshot 2023-09-17 at 11 44 48" src="https://github.com/tunayio/tunayio/assets/111220915/ceb0fdb4-b2e9-403c-9df6-17f22e1b937e">
 <img width="1237" alt="Screenshot 2023-09-17 at 11 47 41" src="https://github.com/tunayio/tunayio/assets/111220915/042dbab7-be02-4656-9ecf-112732883155">
 <img width="749" alt="Screenshot 2023-09-17 at 11 46 02" src="https://github.com/tunayio/tunayio/assets/111220915/f73962b1-50e1-4a53-bd3d-00353e7bd20d">
